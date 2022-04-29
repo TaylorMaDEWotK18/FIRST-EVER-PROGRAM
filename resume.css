@@ -1,0 +1,19 @@
+body {
+  color:blue;
+  font-family: "Arial";
+}
+
+h1 {
+  background-color: #95b135;
+  padding: 16px;
+  border: blue solid 7px;
+}
+
+.section-title {
+  text-transform:uppercase
+}
+
+.main-image {
+  border: solid blue 10px;
+  border-radius: 50%;
+}
